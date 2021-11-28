@@ -1,0 +1,89 @@
+body{
+    background-color: #25272c;
+
+}
+.one{
+    background-color: #00ffff;
+    width: fit-content;
+    height: fit-content;
+    padding: 9px 9px 9px 9px;
+    margin-left: 100px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.banner{
+    background-image: url(bc6.jpg);
+    border: solid 3px #eeffff;
+
+    width: 1000px;
+    height: 400px;
+}
+
+.three{
+    background-color:#00ccff;
+    border: solid 8px #eeffff;
+    border-top-left-radius: 20px;
+    position: relative;
+    width: 1110px;
+    height: 400px;
+    margin-left: 50px;
+}
+
+/* button{
+    background-color: gray;
+    border-top: #25272c solid 5px;
+    border-left: #25272c solid 5px;
+    border-bottom: #eeffff solid 2px;
+    border-right: #eeffff solid 2px;
+    border-top-left-radius: 10px;
+    width: 30px;
+    height:30px ;
+    font-weight: bolder;
+} */
+
+/* .four{
+    position: absolute;
+    top: 35px;
+    left: 35px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: 900;
+    color: #eeffff;
+} */
+
+.five{
+    background-color: #00ffff;
+    border: solid #eeffff;
+    position: absolute; 
+    top: 90px;
+    left: 30px;
+    padding: 20px;
+    height: 200px;
+    width: 225px;
+    font-size: 1rem ;
+    font-weight: bold;
+}
+
+.six{
+    background-color: #00ffff;
+    border: solid #eeffff;
+    position: absolute;
+    height: 330px;
+    width: 690px;
+    top: -80px;
+    left: 300px;
+    padding: 20px;
+}
+
+#money{
+    position: absolute;
+    top:-49px;
+    left: 15px;
+    font-size: 50px;
+    color: #eeffff;
+
+
+}
+
+
